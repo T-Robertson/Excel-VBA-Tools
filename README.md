@@ -1,7 +1,7 @@
 # Excel-VBA-Tools
 Some tools I use daily for working with excel books
 
-Your Personal.xlsb file is stored in a folder called XLSTART. If you want to share your macros with someone else, you can copy it to the XLSTART folder on other computers, or copy some or all of its macros to the Personal.xlsb file on other computers. You can search for XLSTART in Windows Explorer to locate it.
+To use these macros you will need to place the files in your Personal.xlsb file. Quick guide - https://www.teachexcel.com/excel-tutorial/make-your-macros-available-in-all-workbooks-in-excel_1412.html 
 
 # Quick_Format
 Quick_Format is an excel tool for quickly finding out the format of an excel cell. To use it, select the cell you would like to check and run the macro, a window will apear with the format of the cell. This is super useful for custom formats or locked cells where it makes it just a bit easier to see what the format of the selected cell is.
