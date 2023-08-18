@@ -8,3 +8,7 @@ Quick_Format is an excel tool for quickly finding out the format of an excel cel
 
 # Quick_Cell_Copy
 Quick_Cell_Copy is an excel tool for quickly getting the selected cell refence(s). To use it, select the cell(s) you would like to record and run the macro, your clipboard will then contain a copy the cells refence. This is super useful for writing documentation for excel worksheets where you need to write select cell refences.
+
+# ProtectALL and UnprotectALL
+Orginal code - http://www.vbaexpress.com/kb/getarticle.php?kb_id=142
+Modified to lock the whole excel document with a simple tool. To use it, run the macro and enter the password into the text box that you would like to lock or unlock the document with.
